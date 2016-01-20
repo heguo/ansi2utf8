@@ -1,0 +1,11 @@
+D:\Project\temp\ansi2utf8\ansi2utf8\bin\Debug\ansi2utf8.exe.config
+D:\Project\temp\ansi2utf8\ansi2utf8\bin\Debug\ansi2utf8.exe
+D:\Project\temp\ansi2utf8\ansi2utf8\bin\Debug\ansi2utf8.pdb
+D:\Project\temp\ansi2utf8\ansi2utf8\obj\Debug\ansi2utf8.exe
+D:\Project\temp\ansi2utf8\ansi2utf8\obj\Debug\ansi2utf8.pdb
+D:\Project\temp\ansi2utf8\ansi2utf8\obj\Debug\ansi2utf8.csprojResolveAssemblyReference.cache
+D:\Project\ansi2utf8\ansi2utf8\ansi2utf8\bin\Debug\ansi2utf8.exe.config
+D:\Project\ansi2utf8\ansi2utf8\ansi2utf8\obj\Debug\ansi2utf8.exe
+D:\Project\ansi2utf8\ansi2utf8\ansi2utf8\obj\Debug\ansi2utf8.pdb
+D:\Project\ansi2utf8\ansi2utf8\ansi2utf8\bin\Debug\ansi2utf8.exe
+D:\Project\ansi2utf8\ansi2utf8\ansi2utf8\bin\Debug\ansi2utf8.pdb
