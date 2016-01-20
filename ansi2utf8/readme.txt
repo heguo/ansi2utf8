@@ -1,6 +1,6 @@
 ﻿usage:
 
-convert.exe   "c:\\ansifile.txt"  "c:\utf8file.txt"
+convert.exe   "c:\ansifile.txt"  "c:\utf8file.txt"
 
  
 
@@ -22,4 +22,4 @@ vs2015
 windows console program
 windows 10
 
----------------------
+------------------------------
